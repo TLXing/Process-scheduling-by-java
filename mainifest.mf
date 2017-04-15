@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: libs/fastjson-1.1.33.jar
+Main-Class: process.goodtest
